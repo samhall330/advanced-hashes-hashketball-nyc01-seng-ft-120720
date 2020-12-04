@@ -399,6 +399,6 @@ def big_shoe_rebounds
         num_of_rebounds = player[:rebounds]
      end
     end
-   end  
+   end
    p num_of_rebounds
   end
